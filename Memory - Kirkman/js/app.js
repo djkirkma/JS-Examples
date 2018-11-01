@@ -79,8 +79,6 @@ function makeDivs() {
             if(numberArray[a]  == 14 || numberArray[a]  == 15)
             theDiv.setAttribute("data", 8);
             
-            //why do other boys like girls but i like boys as a boy :Big_Think://
-            
             numberArray[a] = ""
             theNumber = true;
         }
